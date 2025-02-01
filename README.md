@@ -14,7 +14,7 @@ This project is a smart clinic management system built using TypeScript and Node
 
 Before you begin, ensure you have met the following requirements:
 
-- **Node.js**: Version 14.x or higher
+- **Node.js**: Version 18.x or higher
 - **npm**: Package manager for installing dependencies
 - **TypeScript**: Installed globally (`npm install -g typescript`)
 - **MySQL/PostgreSQL**: Database server for storing data
